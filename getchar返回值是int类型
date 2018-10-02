@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+	char a;
+	printf("%ld", sizeof(getchar()));
+	
+	system("pause");
+	return 0;
+} 

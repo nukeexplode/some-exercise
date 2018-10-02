@@ -1,0 +1,17 @@
+#include <stdio.h>
+int main()
+{
+	int x;
+	scanf("%d", &x);
+	
+	if(x>=60){
+		printf("60");
+	}else if( x>=70){
+		printf("%d");
+	}
+	
+	
+	
+	system("pause");
+	return 0;
+}
